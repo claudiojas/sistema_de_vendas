@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  vendas:
+    build: .
+    container_name: sistema_vendas
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
