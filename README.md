@@ -1,6 +1,6 @@
 # Sistema de Vendas
 
-Este projeto faz parte da avaliação da graduação da UEMA/ADDS. Ele implementa um sistema de vendas simples, permitindo o cadastro de clientes e produtos, realização de vendas e consulta de informações registradas. O projeto foi desenvolvido em C e utiliza Docker para containerização e execução.
+Este projeto faz parte da avaliação da graduação da UEMA/ADS. Ele implementa um sistema de vendas simples, permitindo o cadastro de clientes e produtos, realização de vendas e consulta de informações registradas. O projeto foi desenvolvido em C e utiliza Docker para containerização e execução.
 
 ## Estrutura do Projeto
 
